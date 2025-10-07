@@ -66,11 +66,6 @@ agentic-ai-business-analyst/
 
 ---
 
-## Deployment (Streamlit Community Cloud / Hugging Face)
-- Push this repo to GitHub.
-- On **Streamlit Community Cloud**, set `OPENAI_API_KEY` secret if you want Q&A.
-- On **Hugging Face Spaces**, choose **Streamlit** SDK and add the same env secret.
-
 ---
 
 ## Resume Bullet (example)
