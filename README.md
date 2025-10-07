@@ -65,8 +65,3 @@ agentic-ai-business-analyst/
 ```
 
 ---
-
----
-
-## Resume Bullet (example)
-> Built an **agentic AI Business Analyst** (Streamlit + Python) that autonomously ingests user datasets, performs EDA and predictive modeling (regression/classification with AutoML-style selection), generates executive reports, and supports optional LLM-based Q&A. Demonstrated end-to-end data engineering, ML, orchestration, and explainability.
